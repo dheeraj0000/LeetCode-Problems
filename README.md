@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0979-di-string-match](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0979-di-string-match) |
 # Stack
 |  |
@@ -13,6 +14,7 @@
 # Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0979-di-string-match](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1839-decode-xored-array](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1839-decode-xored-array) |
@@ -54,8 +56,13 @@
 # Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 # Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+# Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0049-group-anagrams) |
