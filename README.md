@@ -13,6 +13,7 @@
 # Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0979-di-string-match](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1839-decode-xored-array](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -50,3 +51,11 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+# Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+# Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
