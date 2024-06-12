@@ -85,3 +85,19 @@
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
+# Depth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+# Graph
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+# Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
