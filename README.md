@@ -9,11 +9,13 @@
 | [0171-excel-sheet-column-number](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0979-di-string-match](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2470-removing-stars-from-a-string](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 # Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2470-removing-stars-from-a-string](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 # Array
 |  |
 | ------- |
@@ -82,3 +84,4 @@
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2470-removing-stars-from-a-string](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
