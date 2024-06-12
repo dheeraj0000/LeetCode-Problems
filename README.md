@@ -24,6 +24,7 @@
 | [0073-set-matrix-zeroes](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0979-di-string-match](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1319-unique-number-of-occurrences](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1839-decode-xored-array](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0979-di-string-match](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0979-di-string-match) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 # Prefix Sum
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 # Queue
 |  |
 | ------- |
