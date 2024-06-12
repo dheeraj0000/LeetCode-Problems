@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0979-di-string-match](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0979-di-string-match) |
+| [1839-decode-xored-array](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1839-decode-xored-array) |
 | [2714-left-and-right-sum-differences](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/2714-left-and-right-sum-differences) |
 # Two Pointers
 |  |
@@ -27,3 +28,7 @@
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/2714-left-and-right-sum-differences) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1839-decode-xored-array](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1839-decode-xored-array) |
