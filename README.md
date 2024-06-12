@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 # Array
@@ -79,6 +80,7 @@
 # Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 # Simulation
 |  |
@@ -101,3 +103,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+# Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
