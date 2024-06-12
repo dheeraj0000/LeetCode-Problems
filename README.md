@@ -6,6 +6,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0171-excel-sheet-column-number](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0979-di-string-match](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0979-di-string-match) |
 # Stack
 |  |
@@ -43,6 +44,7 @@
 # Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 # Backtracking
 |  |
