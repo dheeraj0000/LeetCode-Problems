@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0979-di-string-match](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0979-di-string-match) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 # Stack
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0049-group-anagrams](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [1319-unique-number-of-occurrences](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 # Matrix
 |  |
 | ------- |
