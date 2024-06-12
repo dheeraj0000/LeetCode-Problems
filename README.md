@@ -48,6 +48,7 @@
 # Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 # Backtracking
@@ -107,3 +108,11 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+# Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+# Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0002-add-two-numbers) |
