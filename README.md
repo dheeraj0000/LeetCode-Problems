@@ -20,6 +20,7 @@
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0979-di-string-match](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0979-di-string-match) |
@@ -68,6 +69,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [1319-unique-number-of-occurrences](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
