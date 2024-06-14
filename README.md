@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 # Backtracking
@@ -127,3 +128,11 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0070-climbing-stairs) |
