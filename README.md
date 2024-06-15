@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0979-di-string-match](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0979-di-string-match) |
+| [1250-longest-common-subsequence](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2470-removing-stars-from-a-string](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 # Stack
@@ -134,6 +135,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0338-counting-bits) |
+| [1250-longest-common-subsequence](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 # Memoization
 |  |
 | ------- |
