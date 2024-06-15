@@ -37,6 +37,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0979-di-string-match](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0979-di-string-match) |
 # Greedy
 |  |
@@ -59,6 +60,7 @@
 | [0002-add-two-numbers](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0202-happy-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 # Backtracking
 |  |
@@ -79,6 +81,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0202-happy-number) |
 | [1319-unique-number-of-occurrences](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 # Matrix
