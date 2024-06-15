@@ -12,6 +12,7 @@
 | [1250-longest-common-subsequence](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2470-removing-stars-from-a-string](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 # Stack
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [1839-decode-xored-array](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2714-left-and-right-sum-differences](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/2714-left-and-right-sum-differences) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 # Two Pointers
 |  |
 | ------- |
