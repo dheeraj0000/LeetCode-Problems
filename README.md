@@ -160,6 +160,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
+| [0961-long-pressed-name](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0961-long-pressed-name) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,4 +171,5 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
+| [0961-long-pressed-name](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0961-long-pressed-name) |
 <!---LeetCode Topics End-->
