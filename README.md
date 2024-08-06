@@ -180,6 +180,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0696-count-binary-substrings) |
@@ -217,6 +218,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Sliding Window
 |  |
@@ -229,6 +231,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0050-powx-n) |
 ## Sorting
 |  |
