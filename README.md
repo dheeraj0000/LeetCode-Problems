@@ -232,6 +232,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0050-powx-n) |
 ## Sorting
