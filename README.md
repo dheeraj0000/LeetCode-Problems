@@ -152,6 +152,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -213,4 +215,8 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
