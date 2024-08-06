@@ -183,6 +183,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
