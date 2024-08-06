@@ -194,6 +194,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
@@ -219,4 +220,8 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0045-jump-game-ii) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
