@@ -151,6 +151,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0075-sort-colors) |
@@ -160,6 +161,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
