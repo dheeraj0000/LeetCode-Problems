@@ -167,6 +167,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -189,6 +190,7 @@
 | [0010-regular-expression-matching](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0696-count-binary-substrings) |
@@ -267,4 +269,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
