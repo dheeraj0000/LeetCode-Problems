@@ -207,12 +207,14 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 ## Heap (Priority Queue)
