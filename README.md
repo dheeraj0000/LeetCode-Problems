@@ -151,6 +151,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0075-sort-colors) |
