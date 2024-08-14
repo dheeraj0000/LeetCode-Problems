@@ -194,6 +194,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
@@ -252,6 +253,7 @@
 | [0013-roman-to-integer](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Sorting
 |  |
 | ------- |
@@ -276,4 +278,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
