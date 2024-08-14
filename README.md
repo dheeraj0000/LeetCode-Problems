@@ -157,6 +157,7 @@
 | [0040-combination-sum-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -250,6 +251,7 @@
 | [0009-palindrome-number](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0066-plus-one) |
 ## Sorting
 |  |
 | ------- |
