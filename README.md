@@ -295,4 +295,20 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
