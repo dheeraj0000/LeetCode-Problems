@@ -158,6 +158,7 @@
 | [0042-trapping-rain-water](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -213,6 +214,7 @@
 | [0042-trapping-rain-water](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -289,4 +291,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0067-add-binary) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
