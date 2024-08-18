@@ -282,6 +282,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -309,12 +310,14 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -327,6 +330,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
