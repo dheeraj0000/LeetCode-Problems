@@ -164,6 +164,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -295,6 +296,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
