@@ -181,6 +181,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -216,6 +217,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -250,6 +253,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +281,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0148-sort-list) |
 ## Trie
 |  |
 | ------- |
