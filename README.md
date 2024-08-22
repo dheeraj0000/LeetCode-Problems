@@ -163,6 +163,7 @@
 | [0075-sort-colors](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -222,6 +223,7 @@
 | [0045-jump-game-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
