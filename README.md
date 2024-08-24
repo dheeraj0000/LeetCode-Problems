@@ -219,6 +219,7 @@
 | [0053-maximum-subarray](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -312,6 +313,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
