@@ -208,6 +208,7 @@
 | [0067-add-binary](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
@@ -268,6 +269,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
