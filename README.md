@@ -168,6 +168,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -219,6 +220,7 @@
 | [0053-maximum-subarray](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
@@ -263,6 +265,7 @@
 | [0013-roman-to-integer](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -286,6 +289,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -370,4 +374,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
