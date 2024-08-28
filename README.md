@@ -170,6 +170,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -274,10 +275,12 @@
 | [0169-majority-element](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0219-contains-duplicate-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 ## Greedy
 |  |
 | ------- |
