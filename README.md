@@ -213,6 +213,7 @@
 | [0125-valid-palindrome](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
@@ -280,6 +281,7 @@
 | [0205-isomorphic-strings](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -306,6 +308,7 @@
 | [0148-sort-list](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/dheeraj0000/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
